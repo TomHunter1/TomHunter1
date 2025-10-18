@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm an operator and technologist who specializes in post-acquisition value creation. After 15 years leading AI & Engineering projects at KPMG, I acquired and scaled my own small business, before turning it into a massive a strategic exit.
+I'm an operator and technologist who specializes in post-acquisition value creation. After 15 years leading AI & Engineering projects at KPMG, I acquired and scaled my own small business, before turning it into an exit.
 
 Today, I apply that same hands-on, ROI-focused playbook to my clients' businesses.
 
