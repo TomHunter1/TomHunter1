@@ -39,9 +39,9 @@ Today, I apply that same hands-on, ROI-focused playbook to my clients' businesse
 <br/>
 
 - 📫 **Get in Touch:**
-  - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tommy-hunter-analyst/)
-  - **Website:** [Company Website URL](https://www.recursivegrowth.com)
-  - **Schedule a Call:** [Your Calendly Link](https://calendly.com/your-link)
+  - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tommy-hunter-analyst/)
+  - **Website:** [RecursiveGrowth.com](https://www.recursivegrowth.com)
+  - **Schedule a Call:** [Calendly Link](https://calendly.com/your-link)
 
 <br/>
 
