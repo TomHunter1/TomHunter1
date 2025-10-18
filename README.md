@@ -19,7 +19,7 @@ Today, I apply that same hands-on, ROI-focused playbook to my clients' businesse
 
 - 🛠️ **Core Competencies & Platforms:**
   - **Business:** Portco Optimization | EBITDA Growth | Process Re-engineering | Value Creation Planning
-  - **Platforms:** Salesforce | NetSuite | HubSpot | Workato | Zapier | Stripe Billing
+  - **Platforms:** Salesforce | SAP | NetSuite | HubSpot | Workato | Zapier | N8N| Stripe Billing
   - **Technologies:** Python | JavaScript/Node.js | SQL | AI/ML Frameworks (TensorFlow/PyTorch)
 
 <br/>
