@@ -1,48 +1,62 @@
-# Tom Hunter | Founder @ Recursive Growth
+# Tom Hunter | Director @ A&M 
 
 ### Helping PE Firms & Mid-Market Companies Boost EBITDA Through AI-Driven Automation.
 
-<br/>
+# Tom Hunter
 
-I'm an operator and technologist who specializes in post-acquisition value creation. After 15 years leading AI & Engineering projects at KPMG, I acquired and scaled my own small business, before turning it into an exit.
+I build systems that increase EBITDA.
 
-Today, I apply that same hands-on, ROI-focused playbook to my clients' businesses.
+My work sits at the intersection of **finance, operations, automation, and AI** — helping PE-backed and mid-market companies turn messy processes into measurable operating leverage.
 
----
+I’m an operator first, technologist second.
 
-- 🔭 **I’m currently working on:**
-  - Architecting scalable Order-to-Cash automation playbooks for PE portfolio companies.
-  - Developing custom AI workflows to eliminate operational drag in service-based businesses.
-  - Integrating disparate CRM, ERP, and Finance systems to create a single source of truth for operators.
+Before this chapter, I spent 15 years leading AI, analytics, and engineering work at KPMG and UC -Berkeley. Then I bought and scaled my own small business, turned the operation around, and exited. That experience changed how I think about automation: not as a cool demo, but as a tool for margin, speed, control, and better decision-making.
 
-<br/>
+Today, I focus on post-acquisition value creation through:
+- workflow automation
+- finance systems integration
+- AI-enabled operating models
+- reusable playbooks for revenue, cash, and execution
 
-- 🛠️ **Core Competencies & Platforms:**
-  - **Business:** Portco Optimization | EBITDA Growth | Process Re-engineering | Value Creation Planning
-  - **Platforms:** Salesforce | SAP | NetSuite | HubSpot | Databricks | Workato | Zapier | N8N | Stripe Billing
-  - **Technologies:** Python | JavaScript/Node.js | SQL | AI/ML Frameworks (TensorFlow/PyTorch)
+## Currently building
+- Order-to-Cash automation playbooks for PE portfolio companies
+- AI-assisted workflows that remove manual bottlenecks in service businesses
+- connected operating systems across CRM, ERP, and finance tools
+- practical automation architecture using tools like Snowflake, Databricks, n8n, Python, and modern AI models
 
-<br/>
+## Core strengths
+**Business**
+- Portco optimization
+- EBITDA expansion
+- Value creation planning
+- Process redesign
+- Post-acquisition execution
 
-- 🤝 **I’m looking to partner with:**
-  - AI Automation Agencies on Scaleable Solutions
-  - Private Equity Operating Partners on post-acquisition value creation.
-  - COOs and Operations Leaders looking to automate manual workflows and scale their business.
+**Platforms**
+- Salesforce
+- SAP
+- NetSuite
+- HubSpot
+- Databricks
+- Snowflake
+- Workato
+- n8n
+- Stripe Billing
 
-<br/>
+**Technical**
+- Python
+- JavaScript / Node.js
+- SQL
+- workflow orchestration
+- applied AI / ML
 
-- 💬 **Ask me about:**
-  - Automating your complete Order-to-Cash cycle.
-  - Calculating the real-world ROI of an automation project.
-  - The "AI Opportunity Audit" and building a tech roadmap that drives growth.
+## Ask me about
+- automating the full Order-to-Cash cycle
+- where AI actually creates operating leverage
+- how to evaluate automation projects based on real ROI
+- building a practical automation roadmap after acquisition
 
-<br/>
-
-- 📫 **Get in Touch:**
-  - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tommy-hunter-analyst/)
-  - **Website:** [RecursiveGrowth.com](https://www.recursivegrowth.com)
-  - **Schedule a Call:** [Calendly Link](https://calendly.com/your-link)
-
-<br/>
-
-- ⚡ **Fun Fact:** I'm passionate about proving that intelligent automation isn't just for large enterprises. The +$400k EBITDA turnaround I led was for my own local window cleaning company.
+## Open to
+- PE operating partners
+- founders and operators modernizing finance/ops
+- teams building serious automation systems for the mid-market
